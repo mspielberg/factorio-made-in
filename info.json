@@ -1,0 +1,9 @@
+{
+  "name":"made-in",
+  "title":"Made In",
+  "description":"Always show what machines can make each recipe.",
+  "author":"Therax",
+  "factorio_version":"0.17",
+  "version":"1.0.0",
+  "dependencies":[]
+}
